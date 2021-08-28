@@ -1,7 +1,5 @@
 # Frontend Mentor - Huddle landing page with single introductory section
 
-![Design preview for the Huddle landing page with single introductory section](./images/screenshot.png)
-
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
@@ -30,7 +28,7 @@ Thanks for checking out this front-end coding challenge.
 
 ### Screenshot
 
-![Design preview for the Huddle landing page with single introductory section](./screenshot.png)
+![Design preview for the Huddle landing page with single introductory section](./images/screenshot.png)
 
 
 ## My process
