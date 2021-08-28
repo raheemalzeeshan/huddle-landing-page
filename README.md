@@ -57,4 +57,4 @@ This is my first landing page for frontendMentor. Here i have learn about adding
 - Frontend Mentor - [@raheemalzeeshan](https://www.frontendmentor.io/profile/raheemalzeeshan)
 - Twitter - [@raheemalzeeshan](https://www.twitter.com/raheemalzeeshan)
 
-**Have fun building!** 🚀
+**Thank You** 🚀
